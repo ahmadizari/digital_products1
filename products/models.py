@@ -1,3 +1,10 @@
 from django.db import models
 
-# Create your models here.
+class Products(models.Model):
+    pass
+
+class Category(models.Model):
+    pass
+
+class File(models.Model):
+    pass
